@@ -1,0 +1,10 @@
+
+1. Charter Schools performed better in top 5 performing schools in overall passing score. While District Schools
+dominated the bottom 5 schools.
+
+2) Larger schools spending and larger school size did not help improve school's performance.
+
+3) The lower spending range (<$585 and $585-615) per student yielded best results.
+
+4) Small (<1000) and medium (1000-2000) school size performed better than the large schools (2000-5000) in pretty much
+everything like Average Math Score,	Average Reading Score,	% Passing Math,	% Passing Reading, and % Overall Passing
